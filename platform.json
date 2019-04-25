@@ -14,7 +14,7 @@
     },
     "version": "0.1.0",
     "packageRepositories": [
-        "https://gist.githubusercontent.com/andriyadi/50e8333958cefe9e7c9975d46e3c65b9/raw/796dcd62f12fe2ecc05077673b7fc1365fad9646/manifest.json",
+        "https://gist.github.com/andriyadi/50e8333958cefe9e7c9975d46e3c65b9/raw/a28e5d91e63013723da91727ad84d64616c98702/manifest.json",
         "https://dl.bintray.com/platformio/dl-packages/manifest.json",
         "http://dl.platformio.org/packages/manifest.json"
     ],
